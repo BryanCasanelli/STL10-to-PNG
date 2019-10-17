@@ -15,7 +15,7 @@ Usage: python/python3 stl10_to_png.py [OPTIONS]
 
 Warning: Transform the unlabeled data into images requires approximately 3 GB of free RAM.
 
-Developed by Bryan Casanelli based on STL10 by Martin Tutek.
+Developed by Bryan Casanelli based on STL10 by Martin Tutek (https://github.com/mttk/STL10).
 https://github.com/BryanCasanelli
 bryancasanelli@gmail.com.
 2019.

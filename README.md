@@ -1,5 +1,5 @@
 # STL10-to-PNG
-Python script to transform the binary STL-10 dataset (http://cs.stanford.edu/~acoates/stl10/) into PNG image files.
+Python script to transform the binary STL-10 dataset (http://cs.stanford.edu/~acoates/stl10/) into image files.
 
 The files are decompressed in PNG format and are separated based on their label.
 
